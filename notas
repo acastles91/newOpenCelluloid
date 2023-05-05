@@ -1,0 +1,6 @@
+8.4.23
+
+El proyecto debería usar un motor BLDC en vez de steppers. Para eso voy a intentar copiar un poco el disegno del driver chino.
+
+	Usa 6 IRF2807
+	S2103 (Temperature and humidity sensor)

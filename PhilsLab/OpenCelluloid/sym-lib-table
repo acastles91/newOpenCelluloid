@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name "GPTS203211B_THT_Switch")(type "Legacy")(uri "/home/antonio/dev/kicad-modules/ESP32-Circuit/2022-03-25_16-40-37.lib")(options "")(descr ""))
+  (lib (name "105450-0101-USB-C-SNAPEDA")(type "Legacy")(uri "/home/antonio/dev/kicad-modules/ESP32-Circuit/105450-0101.lib")(options "")(descr ""))
+  (lib (name "MCP16251")(type "KiCad")(uri "/home/antonio/dev/SalwaAleryani/SalwaAleryani/snapEDA/MCP16251T-I_CH.kicad_sym")(options "")(descr ""))
+  (lib (name "ariadne-rescue")(type "Legacy")(uri "/home/antonio/dev/ariadne/ariadne-rescue.lib")(options "")(descr ""))
+  (lib (name "Synkino")(type "Legacy")(uri "/home/antonio/dev/Synkino/Synkino_KiCAD/Synkino.lib")(options "")(descr ""))
+  (lib (name "Synkino-rescue")(type "Legacy")(uri "/home/antonio/dev/Synkino/Synkino_KiCAD/Synkino-rescue.lib")(options "")(descr ""))
+  (lib (name "IRLML2244")(type "Legacy")(uri "/home/antonio/dev/Synkino/Synkino_KiCAD/IRLML2244.lib")(options "")(descr ""))
+  (lib (name "OpenCelluloid-rescue")(type "Legacy")(uri "/home/antonio/dev/OpenCelluloid/Upu/OpenCelluloid-rescue.lib")(options "")(descr ""))
+  (lib (name "7-segment-display-rescue")(type "Legacy")(uri "/home/antonio/dev/kicad-modules/7-segment-display/7-segment-display-rescue.lib")(options "")(descr ""))
+)
